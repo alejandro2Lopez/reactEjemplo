@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  border: 5px solid red;
+
 }
 
 .App-logo {
@@ -35,4 +37,11 @@
   to {
     transform: rotate(360deg);
   }
+}
+.firstTitle {
+  color: burlywood
+}
+.ComponentTitle {
+  color:#282c34
+  
 }
